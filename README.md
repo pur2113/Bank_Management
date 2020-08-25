@@ -1,4 +1,4 @@
-# bank_management
+# Bank_Management
 This project is about managing the various bank accounts.
 
 You can access the following features:
